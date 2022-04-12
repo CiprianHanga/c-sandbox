@@ -21,6 +21,8 @@
 .nfs*
 
 ### Borland Turbo C++ ###
+*.o
+*.exe
 
 
 ### PHPStorm ###
